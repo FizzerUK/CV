@@ -17,6 +17,7 @@ I am an enthusiastic network threat hunter with a focus on C2 and data exfiltrat
 Good familiarity with Microsoft XDR having an Azure AD Lab built with Terraform to assist my studies in MS SC200.  
 Having extensive experience in the NOC I want to leverage this into a SOC Role, and my previous experience in Business Continuity (BC) / Disaster Recovery (DR) has given me a passion and focus on helping businesses, so I have an ambition to move into Incident Response and Purple Team Threat Hunting.
 Started learning RedTeam AD account comprise via Users/SPN accounts for Golden/Silver Tickets so I can learn how best to defend AD.
+
 ---
 
 ### **Education & professional development**
