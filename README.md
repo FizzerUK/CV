@@ -50,8 +50,8 @@ Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 - Good insight into KQL rules from log filters / alerts in Azure Sentinel.
 - Medium skills in Linux / Windows Desktop and Server from home labs.
 - Basic Python, PowerShell knowledge with some BASH and PowerShell scripting knowledge.
-- Good knowledge of PCAP analysis looking for C2 and Datya expfil.
-- Some AD and GPO knowledge from studying Red Team attacks on User/SPN's inpatgicular laterial movement using TGT and Tokens.
+- Good knowledge of PCAP analysis looking for C2 and Data expfil.
+- Some AD / GPO knowledge from studying Red Team attacks on User/SPN's for Privleage escalation and laterial movement for TGT, Tokens, Silver/Golden Tickets.
 - Recent studies / small boot camps on End-Point Investigations, Linux Forensics.
 - Broad range of engineering knowledge and diagnostic experience including IT, networking, electronic, electrical, and mechanical engineering.
 - Extensive client liaison experience dealing with live DR invocations, encompassing clients from a wide and varied background including micro entities to large multi-nationals.
