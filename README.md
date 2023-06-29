@@ -23,27 +23,21 @@ Started learning RedTeam AD account comprise via Users/SPN accounts for Golden/S
 ### **Education & professional development**
 
 **GIAC GSEC SEC401** Security Essentials for Network, Endpoint, and Cloud
-
 Security skills and techniques required to protect and secure critical information and technology assets on premise and cloud, and how to directly apply the learned concepts into a defensive strategy.  Includes 18 hands-on Labs.
 
 **GIAC GFACT SEC275** Foundations for Computers, Technology, and Security
-
 Covered core knowledge and developed practical skills in computers, technology, and security foundations.
 
 **CompTIA Linux+**
-
 Covered Linux system architecture, networking, security, troubleshooting, and package management
 
 **ITIL V3 Foundation**
-
 Introduction into the end-to-end creation, delivery and continual improvement of IT products and service delivery.
 
 **HND in Electronics and Communications Engineering (Merit)**
-
 Studied analogue/digital electrical electronic theory, design and application. Specialised in Mobile communications.
 
 **Currently studying**
-
 Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 
 ---
@@ -56,7 +50,9 @@ Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 - Good insight into KQL rules from log filters / alerts in Azure Sentinel.
 - Medium skills in Linux / Windows Desktop and Server from home labs.
 - Basic Python, PowerShell knowledge with some BASH and PowerShell scripting knowledge.
+- Good knowledge of PCAP analysis looking for C2 and Datya expfil.
 - Some AD and GPO knowledge from studying Red Team attacks on User/SPN's inpatgicular laterial movement using TGT and Tokens.
+- Recent studies / small boot camps on End-Point Investigations, Linux Forensics.
 - Broad range of engineering knowledge and diagnostic experience including IT, networking, electronic, electrical, and mechanical engineering.
 - Extensive client liaison experience dealing with live DR invocations, encompassing clients from a wide and varied background including micro entities to large multi-nationals.
 - Good communication and training skills from my past positions as a NOC shift leader and lead repair technician.**
