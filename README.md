@@ -10,13 +10,13 @@
 
 ***GRADUATE OF THE SANS INSTITUTE GOVERNMENT FUNDED UPSKILL IN CYBERSECURITY PROGRAMME 2022, CURRENTLY EXPLORING OPPORTUNITIES WITHIN THE CYBER SECTOR WITH AN AMBITION TO PROGRESS INTO IR.***
 
-Selected as 1 of 200 candidates chosen from around 2000 to successfully train and complete the SANS Upskill in to Cyber Programme, funded by the UK Government designed to bridge the sector skills gap.
-Achieved GIAC SEC275 (GFACT) and SEC401 (GSEC), GSEC pass mark resulted in joining SANS advisory board.
-Covered many hours of training relating to SOC skills, Network Threat Hunting, Purple Team Tactics and Cloud Attacks with John Strand’s BHIS Antisyphon Training. 
-I am an enthusiastic network threat hunter with a focus on C2 and data exfiltration investigation with Zeek.
-Good familiarity with Microsoft XDR having an Azure AD Lab built with Terraform to assist my studies in MS SC200.
+Selected as 1 of 200 candidates chosen from around 2000 to successfully train and complete the SANS Upskill in to Cyber Programme, funded by the UK Government designed to bridge the sector skills gap.  
+Achieved GIAC SEC275 (GFACT) and SEC401 (GSEC), GSEC pass mark resulted in joining SANS advisory board.  
+Covered many hours of training relating to SOC skills, Network Threat Hunting, Purple Team Tactics and Cloud Attacks with John Strand’s BHIS Antisyphon Training.  
+I am an enthusiastic network threat hunter with a focus on C2 and data exfiltration investigation with Zeek.  
+Good familiarity with Microsoft XDR having an Azure AD Lab built with Terraform to assist my studies in MS SC200.  
 Having extensive experience in the NOC I want to leverage this into a SOC Role, and my previous experience in Business Continuity (BC) / Disaster Recovery (DR) has given me a passion and focus on helping businesses, so I have an ambition to move into Incident Response and Purple Team Threat Hunting.
-
+Started learning RedTeam AD account comprise via Users/SPN accounts for Golden/Silver Tickets so I can learn how best to defend AD.
 ---
 
 ### **Education & professional development**
