@@ -2,6 +2,8 @@
 
 ## ***Cybersecurity Professional***
 
+[LinkedIn - Please connect!](https://www.linkedin.com/in/davidhigg/)
+
 ### **Profile**
 
 ***GRADUATE OF THE SANS INSTITUTE GOVERNMENT FUNDED UPSKILL IN CYBERSECURITY PROGRAMME 2022, CURRENTLY EXPLORING OPPORTUNITIES WITHIN THE CYBER SECTOR WITH AN AMBITION TO PROGRESS INTO IR.***
