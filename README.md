@@ -3,6 +3,7 @@
 ## ***Cybersecurity Professional***
 
 [LinkedIn - Please connect!](https://www.linkedin.com/in/davidhigg/)
+[Personal About Me Page](https://fizzer.uk/about/)
 
 ### **Profile**
 
