@@ -22,22 +22,22 @@ Started learning RedTeam AD account comprise via Users/SPN accounts for Golden/S
 
 ### **Education & professional development**
 
-**GIAC GSEC SEC401** Security Essentials for Network, Endpoint, and Cloud
+**GIAC GSEC SEC401** Security Essentials for Network, Endpoint, and Cloud  
 Security skills and techniques required to protect and secure critical information and technology assets on premise and cloud, and how to directly apply the learned concepts into a defensive strategy.  Includes 18 hands-on Labs.
 
-**GIAC GFACT SEC275** Foundations for Computers, Technology, and Security
+**GIAC GFACT SEC275** Foundations for Computers, Technology, and Security  
 Covered core knowledge and developed practical skills in computers, technology, and security foundations.
 
-**CompTIA Linux+**
+**CompTIA Linux+**  
 Covered Linux system architecture, networking, security, troubleshooting, and package management
 
 **ITIL V3 Foundation**  
 Introduction into the end-to-end creation, delivery and continual improvement of IT products and service delivery.
 
-**HND in Electronics and Communications Engineering (Merit)**
+**HND in Electronics and Communications Engineering (Merit)**  
 Studied analogue/digital electrical electronic theory, design and application. Specialised in Mobile communications.
 
-**Currently studying**
+**Currently studying**  
 Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 
 ---
