@@ -10,13 +10,13 @@
 
 ***GRADUATE OF THE SANS INSTITUTE GOVERNMENT FUNDED UPSKILL IN CYBERSECURITY PROGRAMME 2022, CURRENTLY EXPLORING OPPORTUNITIES WITHIN THE CYBER SECTOR WITH AN AMBITION TO PROGRESS INTO IR.***
 
-Selected as 1 of 200 candidates chosen from around 2000 to successfully train and complete the SANS Upskill in to Cyber Programme, funded by the UK Government designed to bridge the sector skills gap.  
-Achieved GIAC SEC275 (GFACT) and SEC401 (GSEC), GSEC pass mark resulted in joining SANS advisory board.  
-Covered many hours of training relating to SOC skills, Network Threat Hunting, Purple Team Tactics and Cloud Attacks with John Strand’s BHIS Antisyphon Training.  
-I am an enthusiastic network threat hunter with a focus on C2 and data exfiltration investigation with Zeek.  
-Good familiarity with Microsoft XDR having an Azure AD Lab built with Terraform to assist my studies in MS SC200.  
-Having extensive experience in the NOC I want to leverage this into a SOC Role, and my previous experience in Business Continuity (BC) / Disaster Recovery (DR) has given me a passion and focus on helping businesses, so I have an ambition to move into Incident Response and Purple Team Threat Hunting.
-Started learning RedTeam AD account comprise via Users/SPN accounts for Golden/Silver Tickets so I can learn how best to defend AD.
+Experienced NOC Analyst with a passion for cybersecurity and threat detection. Selected from 2000 candidates for the prestigious SANS Upskill in Cyber Programme, funded by the UK Government to bridge the sector skills gap. Completed intensive training in SOC skills, Network Threat Hunting, Purple Team Tactics, and Cloud Attacks with John Strand's BHIS Antisyphon Training.
+
+Hold GIAC SEC275 (GFACT) and SEC401 (GSEC) certifications, showcasing a strong cybersecurity foundation. Invited to the SANS advisory board based on exceptional performance in the GSEC exam.
+
+Skilled in Business Continuity (BC) and Disaster Recovery (DR) with a focus on hardware and Bare Metal OS deployments for infrastructure recovery. Proficient in incident response, vulnerability management, security monitoring, and threat hunting.
+
+Seeking a challenging role as a SOC Analyst to apply expertise in incident detection and response, log analysis, network monitoring, and security tool utilization. Committed to ongoing professional development and staying current with emerging cybersecurity trends.
 
 ---
 
@@ -47,15 +47,15 @@ Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 - 10 years’ technical and monitoring experience in data centre environments (NOC).
 - 8 years’ BC and DR planning, managing hardware invocations for multiple clients.
 - Knowledge of Azure Defender / Sentinel from my SC200 studies. 
-- Good insight into KQL rules from log filters / alerts in Azure Sentinel.
-- Medium skills in Linux / Windows Desktop and Server from home labs.
+- Proficient in creating KQL rules for log filters and alerts in Azure Sentinel.
+- Solid skills in Linux/Windows Desktop and Server from extensive home lab experience.
 - Basic Python, PowerShell knowledge with some BASH and PowerShell scripting knowledge.
 - Good knowledge of PCAP analysis looking for C2 and Data expfil.
 - Some AD / GPO knowledge from studying Red Team attacks on User/SPN's for Privleage escalation and laterial movement for TGT, Tokens, Silver/Golden Tickets.
-- Recent studies / small boot camps on End-Point Investigations, Linux Forensics.
-- Broad range of engineering knowledge and diagnostic experience including IT, networking, electronic, electrical, and mechanical engineering.
-- Extensive client liaison experience dealing with live DR invocations, encompassing clients from a wide and varied background including micro entities to large multi-nationals.
-- Good communication and training skills from my past positions as a NOC shift leader and lead repair technician.**
+- Recent studies / small boot camps have given me a good insight inti End-Point Investigations Windows and Linux.
+- Well-versed in IT, networking, electronic, electrical, and mechanical engineering, providing a broad range of engineering knowledge and diagnostic expertise.
+- Extensive experience in client liaison, handling live DR invocations, and effectively communicating with clients ranging from micro entities to large multi-nationals.
+- Strong communication and training skills, developed through previous roles as a NOC shift leader and lead repair technician.
 
 ---
 
@@ -67,11 +67,11 @@ Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 
 A reactive role ensuring clients were able to continue with business as usual following a major incident, this included cyber threats, though to building and technology incidents.
 
-- Provided support for the company's BC and DR services across multiple sites in the UK predominately working in network, SAN storage, server hardware recovery and deploying OS.
-- Worked across various technologies, including Intel server, IBM SAN storage, Cisco Switch, Router and Firewall configuration
-- Deployment and initial configuration of MS Windows / Linux / VMware OS including server and desktop.
-- Worked with clients throughout the testing lifecycle, documenting multiple DR plans, set-up and test procedures, along with special instructions. 
-- Ensured compliance and data protections were maintained in line with company and client policies.
+- Supported the company's business continuity (BC) and disaster recovery (DR) services, focusing on network, SAN storage, and server hardware recovery.
+-Deployed and configured MS Windows, Linux, and VMware operating systems for servers and desktops.
+- Sound understanding of Cisco IOS Switch, Router and Firewall configuration
+- Collaborated with clients to develop and document DR plans, test procedures, and special instructions. 
+- Ensured compliance with data protection and security standards.
 - Site Manager of a DR facility, including a front and back Office, Computer Equipment Room (CER) and Work Area resources. This encompassed building security management to ISO-27001 and PCI/DSS compliance. 
 
 ###### **Key Achievements:** Recovery Specialist
@@ -82,9 +82,9 @@ A reactive role ensuring clients were able to continue with business as usual fo
 
 ##### **Data Centre Operation Analyst** | 2012 - 2014
 
-- Network operations support for a highly secure data centre environment.
-- Primary duties involved the installation, testing and troubleshoot of connectivity to servers, routers, and switches both physical and remote. Patching of both copper and fibre cabling.
-- Trouble shooting issues for clients via telephone, email and ticket system within a timely manner ensuring company guidelines and SLA’s are upheld and exceeded.
+- Provided network operations support within a highly secure data center environment.
+- Installed, tested, and troubleshot connectivity for servers, routers, and switches.
+- Responded to client issues promptly and effectively, adhering to company guidelines and SLAs.
 
 #### 2004 – 2011, Foreshore Ltd, St. Helier, Jersey
 
@@ -137,8 +137,7 @@ A reactive role ensuring clients were able to continue with business as usual fo
 #### **Additional Information** 
 
 - Have an Azure lab environment with an AD populated by Badblood for Vulnerability analysis.
-- Home IDS based on Zeek using Rita and Beaker (Sysmon, WinLogBeat, Elasticsearch, and Kibana).
-- Recently deployed the community edition of ACHunter and setting up labs to test C2 detection.
+- Home IDS based on Zeek using Rita.
 - Member of OWASP
 - Voulnteer for BSides (most recent leeds 2023, Assistant on Track 3)
 - Previously SC NPPV and Met. Police Cleared (Expired)
