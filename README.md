@@ -122,7 +122,7 @@ A reactive role ensuring clients were able to continue with business as usual fo
 
 **British National Super Bikes (Privateer).**
 
-- A completely voluntary part of the course in motorcycle engineering to assist D.A.R.T. 
+- A completely voluntary part of the course in motorcycle engineering. 
 - British Superbike Team in maintaining, servicing and the complete engine rebuilding of a Ducati 998 Corsa race motorcycle. 
 - Ensuring the motorcycle was ready to race even after crashes and engine failures.
 
