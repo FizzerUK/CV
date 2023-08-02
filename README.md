@@ -46,12 +46,11 @@ Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 
 - 10 years’ technical and monitoring experience in data centre environments (NOC).
 - 8 years’ BC and DR planning, managing hardware invocations for multiple clients.
-- Knowledge of Azure Defender / Sentinel from my SC200 studies. 
-- Proficient in creating KQL rules for log filters and alerts in Azure Sentinel.
+- Knowledge of Azure Defender / Sentinel from my SC200 studies.
 - Solid skills in Linux/Windows Desktop and Server from extensive home lab experience.
 - Basic Python, PowerShell knowledge with some BASH and PowerShell scripting knowledge.
-- Good knowledge of PCAP analysis looking for C2 and Data expfil.
-- Some AD / GPO knowledge from studying Red Team attacks on User/SPN's for Privleage escalation and laterial movement for TGT, Tokens, Silver/Golden Tickets.
+- Good knowledge of PCAP analysis looking for C2 and Data exfil.
+- Some AD / GPO knowledge from recently studying Red Team attacks on User/SPN's for Privleage escalation and laterial movement gaining TGT, Tokens, Silver/Golden Tickets.
 - Recent studies / small boot camps have given me a good insight inti End-Point Investigations Windows and Linux.
 - Well-versed in IT, networking, electronic, electrical, and mechanical engineering, providing a broad range of engineering knowledge and diagnostic expertise.
 - Extensive experience in client liaison, handling live DR invocations, and effectively communicating with clients ranging from micro entities to large multi-nationals.
