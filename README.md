@@ -10,7 +10,7 @@
 
 ***GRADUATE OF THE SANS INSTITUTE GOVERNMENT FUNDED UPSKILL IN CYBERSECURITY PROGRAMME 2022, CURRENTLY EXPLORING OPPORTUNITIES WITHIN THE CYBER SECTOR WITH AN AMBITION TO PROGRESS INTO IR.***
 
-Experienced NOC Analyst with a passion for cybersecurity and threat detection. Selected from 2000 candidates for the prestigious SANS Upskill in Cyber Programme, funded by the UK Government to bridge the sector skills gap. Completed intensive training in SOC skills, Network Threat Hunting, Purple Team Tactics, and Cloud Attacks with John Strand's BHIS Antisyphon Training.
+Experienced SOC/NOC Analyst with a passion for cybersecurity and an emphasis on threat detection. Esperianced in triage of events and investigations into alerts. Selected from 2000 candidates for the prestigious SANS Upskill in Cyber Programme, funded by the UK Government to bridge the sector skills gap. Completed intensive training in SOC skills, Network Threat Hunting, Purple Team Tactics, and Cloud Attacks with John Strand's BHIS Antisyphon Training.
 
 Hold GIAC SEC275 (GFACT) and SEC401 (GSEC) certifications, showcasing a strong cybersecurity foundation. Invited to the SANS advisory board based on exceptional performance in the GSEC exam.
 
@@ -38,7 +38,7 @@ Introduction into the end-to-end creation, delivery and continual improvement of
 Studied analogue/digital electrical electronic theory, design and application. Specialised in Mobile communications.
 
 **Currently studying**  
-Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
+Microsoft SC-200, Spluck Certified Defender, ISC<sup>2</sup> SSCP, BTL1
 
 ---
 
@@ -46,12 +46,12 @@ Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 
 - 10 years’ technical and monitoring experience in data centre environments (NOC).
 - 8 years’ BC and DR planning, managing hardware invocations for multiple clients.
-- Knowledge of Azure Defender / Sentinel from my SC200 studies.
+- Experiance with Splunk, Forcepoint and Azure Defender / Sentinel from my most recent role and Splunk Cert, Defender and SC200 studies.
+- Good knowledge of End-point triage encompassing both Linux and Windows.
 - Solid skills in Linux/Windows Desktop and Server from extensive home lab experience.
 - Basic Python, PowerShell knowledge with some BASH and PowerShell scripting knowledge.
 - Good knowledge of PCAP analysis looking for C2 and Data exfil.
 - Some AD / GPO knowledge from recently studying Red Team attacks on User/SPN's for Privleage escalation and laterial movement gaining TGT, Tokens, Silver/Golden Tickets.
-- Recent studies / small boot camps have given me a good insight inti End-Point Investigations Windows and Linux.
 - Well-versed in IT, networking, electronic, electrical, and mechanical engineering, providing a broad range of engineering knowledge and diagnostic expertise.
 - Extensive experience in client liaison, handling live DR invocations, and effectively communicating with clients ranging from micro entities to large multi-nationals.
 - Strong communication and training skills, developed through previous roles as a NOC shift leader and lead repair technician.
@@ -60,14 +60,26 @@ Microsoft SC-200, ISC<sup>2</sup> SSCP, INE eJPT, BTL1
 
 ### **Work Experience**
 
-#### 2012 – Present, Sungard AS - Woking, Coventry and Leicester/National
+#### NCC Group - Remote
+
+##### **Security Analyst (DLP)** | 2023 - Present
+
+A reactive role 
+
+- Supported the company's
+
+###### **Key Achievements:** Recovery Specialist
+
+- Successfully 
+  
+#### Sungard AS - Woking, Coventry, Leicester, National
 
 ##### **Business Continuity Specialist** | 2014 - Present
 
 A reactive role ensuring clients were able to continue with business as usual following a major incident, this included cyber threats, though to building and technology incidents.
 
 - Supported the company's business continuity (BC) and disaster recovery (DR) services, focusing on network, SAN storage, and server hardware recovery.
--Deployed and configured MS Windows, Linux, and VMware operating systems for servers and desktops.
+- Deployed and configured MS Windows, Linux, and VMware operating systems for servers and desktops.
 - Sound understanding of Cisco IOS Switch, Router and Firewall configuration
 - Collaborated with clients to develop and document DR plans, test procedures, and special instructions. 
 - Ensured compliance with data protection and security standards.
