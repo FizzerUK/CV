@@ -16,10 +16,12 @@ Completed intensive training in SOC skills, Network Threat Hunting, Purple Team 
 Holding GIAC SEC275 (GFACT) and SEC401 (GSEC) certifications, showcasing a strong cybersecurity foundation. Invited to the SANS advisory board based on exceptional performance in the GSEC exam.
 
 Skilled in Business Continuity (BC) and Disaster Recovery (DR) with a focus on hardware and Bare Metal OS deployments for infrastructure recovery. Proficient in incident response, vulnerability management, security monitoring, and threat hunting.
+
 --
 
 Seeking a challenging role within Cyber Seecurity to apply my expertise in incident detection and response, log analysis, network monitoring, and security tool utilization.
 Committed to ongoing professional development and staying current with emerging cybersecurity trends.
+
 --
 
 ### **Skills**
