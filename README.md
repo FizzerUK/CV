@@ -2,7 +2,7 @@
 
 ## ***Cybersecurity and Business Continuity Professional***
 
-[LinkedIn - Please connect!](https://www.linkedin.com/in/davidhigg/)
+[LinkedIn - Please connect!](https://www.linkedin.com/in/davidh42/)
 
 [Personal About Me Page](https://fizzer.uk/about/)
 
