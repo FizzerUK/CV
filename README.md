@@ -35,7 +35,7 @@ Seeking a challenging role within Cyber Security to apply expertise in event det
 - Solid experience with Forcepoint products for Data Loss Prevention and Protection.
 - Experience triaging events in Microsoft Sentinel / Microsoft Defender for Endpoint, with KQL query language usage and basic Azure exposure.
 - Good knowledge of endpoint triage across both Linux and Windows systems.
-- Solid skills in Linux and Windows desktop/server environments, supported by extensive home lab experience.
+- Solid skills in Linux and Windows desktop/server environments, including Disaster Recovery support, bare-metal OS restores, and infrastructure recovery, supported by extensive home lab experience.
 - Basic Python knowledge, alongside PowerShell and Bash scripting experience.
 - Good knowledge of PCAP analysis for identifying command and control activity and data exfiltration.
 - Working knowledge of Active Directory and Group Policy, including recent study of Red Team attack paths involving user/SPN abuse, privilege escalation, lateral movement, TGTs, tokens, and Silver/Golden Tickets.
