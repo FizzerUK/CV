@@ -11,6 +11,8 @@
 
 ***Graduate of the SANS Institute government-funded Upskill in Cyber Programme 2022, currently exploring opportunities within the cyber sector with an ambition to progress further within security operations and detection engineering.***
 
+***
+
 Experienced SOC/NOC Analyst with a strong focus on threat detection, event triage, and alert investigation. Experienced in triaging events and investigating alerts using Microsoft Sentinel, Microsoft Defender for Endpoint (MDE), and Splunk. Selected from 2,000 candidates for the prestigious SANS Upskill in Cyber Programme, funded by the UK Government to help bridge the sector skills gap.
 
 Completed intensive training in SOC operations, network threat hunting, purple team tactics, and cloud attacks through John Strand's BHIS Antisyphon Training.
