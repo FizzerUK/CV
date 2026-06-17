@@ -1,13 +1,14 @@
 ﻿# **DAVID H**
 
-## ***Cybersecurity and Business Continuity Professional***
+## ***Cyber Security and Business Continuity Professional***
 
 [LinkedIn - Please connect!](https://www.linkedin.com/in/davidh42/)
 
-[Personal About Me Page](https://fizzer.uk/about/)
+<!-- [Personal About Me Page](https://fizzer.uk/about/) -->
 
 
-### **Profile**
+### **Profile**Heck I forgot..  Nice one mate!  Sorry..  Was too busy enjoying coffee..
+ 
 
 ***Graduate of the SANS Institute government-funded Upskill in Cyber Programme 2022, currently exploring opportunities within the cyber sector with an ambition to progress further within security operations and detection engineering.***
 
@@ -23,7 +24,7 @@ Skilled in Business Continuity (BC) and Disaster Recovery (DR), with a focus on 
 
 ***
 
-Seeking a challenging role within Cyber Security to apply expertise in event detection, log analysis, network monitoring, Microsoft Defender for Endpoint, Splunk, KQL, SPL, and security tooling. Committed to ongoing professional development and staying current with emerging cybersecurity trends.
+Seeking a challenging role within Cyber Security to apply expertise in event detection, log analysis, network monitoring, Microsoft Defender for Endpoint, Splunk, KQL, SPL, and wider security tooling. Committed to ongoing professional development and staying current with emerging cyber security trends.
 
 ***
 
@@ -35,11 +36,11 @@ Seeking a challenging role within Cyber Security to apply expertise in event det
 - Solid experience with Forcepoint products for Data Loss Prevention and Protection.
 - Experience triaging events in Microsoft Sentinel / Microsoft Defender for Endpoint, with KQL query language usage and basic Azure exposure.
 - Good knowledge of endpoint triage across both Linux and Windows systems.
-- Solid skills in Linux and Windows desktop/server environments, including Disaster Recovery support, bare-metal OS restores, and infrastructure recovery, supported by extensive home lab experience.
+- Solid skills across Linux and Windows desktop and server environments, including Disaster Recovery support, bare-metal OS restores, and infrastructure recovery, reinforced by extensive home lab experience.
 - Basic Python knowledge, alongside PowerShell and Bash scripting experience.
 - Good knowledge of PCAP analysis for identifying command and control activity and data exfiltration.
 - Working knowledge of Active Directory and Group Policy, including recent study of Red Team attack paths involving user/SPN abuse, privilege escalation, lateral movement, TGTs, tokens, and Silver/Golden Tickets.
-- Well-versed in multiple engineering disciplines including IT, networking, electronics, electrical, and mechanical engineering, providing broad diagnostic and troubleshooting capability across technical domains.
+- Well versed in multiple engineering disciplines, including IT, networking, electronics, electrical, and mechanical engineering, providing broad diagnostic and troubleshooting capability across technical domains.
 - Extensive client liaison experience, including live Disaster Recovery scenarios, supporting organisations ranging from micro-entities to large multinationals.
-- Soft skills include report writing, presentation of weekly statistics, and communication across multiple levels of business, including C-suite stakeholders.
+- Soft skills include report writing, presentation of weekly statistics, and communication with stakeholders across multiple levels of the business, including C-suite leadership.
 - Strong training skills, developed through previous roles as a NOC Shift Leader and Lead Repair Supervisor Technician.
