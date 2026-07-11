@@ -14,9 +14,9 @@
 
 ***
 
-Experienced SOC/NOC Analyst with a strong focus on threat detection, event triage, and alert investigation. Experienced in triaging events and investigating alerts using Microsoft Sentinel, Microsoft Defender for Endpoint (MDE), and Splunk. Selected from 2,000 candidates for the prestigious SANS Upskill in Cyber Programme, funded by the UK Government to help bridge the sector skills gap.
+Experienced SOC/NOC Analyst with a strong focus on threat detection, event triage, and alert investigation. Experienced in triaging events and investigating alerts using Microsoft Sentinel, Microsoft Defender for Endpoint (MDE), and Splunk.
 
-Completed intensive training in SOC operations, network threat hunting, purple team tactics, and cloud attacks through John Strand's BHIS Antisyphon Training.
+Selected from 2,000 candidates for the prestigious SANS Upskill in Cyber Programme, funded by the UK Government to help bridge the sector skills gap.
 
 Holding GIAC SEC275 (GFACT) and SEC401 (GSEC) certifications, demonstrating a strong cybersecurity foundation. Invited to the SANS Advisory Board based on exceptional performance in the GSEC exam.
 
