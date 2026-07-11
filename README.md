@@ -7,7 +7,7 @@
 <!-- [Personal About Me Page](https://fizzer.uk/about/) -->
 
 
-### **Profile**Heck I forgot..  Nice one mate!  Sorry..  Was too busy enjoying coffee..
+### **Profile**
  
 
 ***Graduate of the SANS Institute government-funded Upskill in Cyber Programme 2022, currently exploring opportunities within the cyber sector with an ambition to progress further within security operations and detection engineering.***
