@@ -2,7 +2,7 @@
 
 ## Threat Hunting | Detection Engineering | Security Operations | Business Continuity
 
-https://www.linkedin.com/in/davidh42/
+[LinkedIn](https://www.linkedin.com/in/davidh42/)
 
 ---
 
