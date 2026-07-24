@@ -1,40 +1,110 @@
-﻿# **DAVID H**
+# David H
 
-## ***Cyber Security and Business Continuity Professional***
+## Threat Hunting | Detection Engineering | Security Operations | Business Continuity
 
-[LinkedIn - Please connect!](https://www.linkedin.com/in/davidh42/)
+https://www.linkedin.com/in/davidh42/
 
-<!-- [Personal About Me Page](https://fizzer.uk/about/) -->
+---
 
+# Professional Profile
 
-### **Profile**
+Security professional with experience spanning Security Operations, Data Loss Prevention (DLP), Business Continuity (BC), Disaster Recovery (DR), enterprise infrastructure, networking, systems administration, and engineering.
 
-Experienced SOC/NOC Analyst with a strong focus on threat detection, event triage, and alert investigation. Experienced in triaging events and investigating alerts using Microsoft Sentinel, Microsoft Defender for Endpoint (MDE), and Splunk.
+Selected from over 2,000 applicants for the UK Government-funded **SANS Upskill in Cyber Programme**, achieving **GIAC GFACT** and **GIAC GSEC** certifications. Invited to join the **SANS Advisory Board** following exceptional examination performance.
 
-Selected from 2,000 candidates for the prestigious SANS Upskill in Cyber Programme, funded by the UK Government to help bridge the sector skills gap.
-Holding GIAC SEC275 (GFACT) and SEC401 (GSEC) certifications, demonstrating a strong cybersecurity foundation. Invited to the SANS Advisory Board based on exceptional performance in the GSEC exam.
+Experienced in threat detection, event triage, security monitoring, endpoint investigation, log analysis, and incident response using technologies including **Microsoft Sentinel**, **Microsoft Defender for Endpoint**, **Splunk**, and **Forcepoint DLP**.
 
-Skilled in Business Continuity (BC) and Disaster Recovery (DR), with a focus on hardware deployment and bare-metal OS recovery for infrastructure restoration. Proficient in security monitoring, threat hunting, log analysis, and vulnerability management.
+Combines cyber security expertise with broad infrastructure, networking, storage, telecommunications, and engineering experience, enabling effective root-cause analysis, incident investigation, and problem solving across multiple technology domains.
 
-***
+Currently focused on developing advanced threat hunting capabilities through practical projects including **Zeek-based network telemetry and threat hunting**.
 
-Seeking a challenging role within Cyber Security to apply expertise in event detection, log analysis, network monitoring, Microsoft Defender for Endpoint, Splunk, KQL, SPL, and wider security tooling. Committed to ongoing professional development and staying current with emerging cyber security trends.
+---
 
-***
+# Core Competencies
 
-### **Skills**
+## Security Operations
 
-- 10 years of technical monitoring and infrastructure experience in Data Centre environments (NOC), and more recently within SOC.
-- 8 years of Business Continuity and Disaster Recovery planning, including managing hardware deployments for multiple clients.
-- Experience triaging events in Splunk and using SPL query language.
-- Solid experience with Forcepoint products for Data Loss Prevention and Protection.
-- Experience triaging events in Microsoft Sentinel / Microsoft Defender for Endpoint, with KQL query language usage and basic Azure exposure.
-- Good knowledge of endpoint triage across both Linux and Windows systems.
-- Solid skills across Linux and Windows desktop and server environments, including Disaster Recovery support, bare-metal OS restores, and infrastructure recovery, reinforced by extensive home lab experience.
-- Basic Python knowledge, alongside PowerShell and Bash scripting experience.
-- Good knowledge of PCAP analysis for identifying command and control activity and data exfiltration.
-- Working knowledge of Active Directory and Group Policy, including recent study of Red Team attack paths involving user/SPN abuse, privilege escalation, lateral movement, TGTs, tokens, and Silver/Golden Tickets.
-- Well versed in multiple engineering disciplines, including IT, networking, electronics, electrical, and mechanical engineering, providing broad diagnostic and troubleshooting capability across technical domains.
-- Extensive client liaison experience, including live Disaster Recovery scenarios, supporting organisations ranging from micro-entities to large multinationals.
-- Soft skills include report writing, presentation of weekly statistics, and communication with stakeholders across multiple levels of the business, including C-suite leadership.
-- Strong training skills, developed through previous roles as a NOC Shift Leader and Lead Repair Supervisor Technician.
+- Threat Detection and Alert Triage
+- Threat Hunting
+- Incident Investigation
+- Security Monitoring
+- Endpoint Investigation
+- Vulnerability Management
+- Data Loss Prevention (DLP)
+- PCAP Analysis
+- Log Analysis
+- Microsoft Sentinel
+- Microsoft Defender for Endpoint
+- Splunk Enterprise
+- KQL
+- SPL
+
+## Detection Engineering
+
+- Security Analytics
+- Query Development
+- Detection Logic Development
+- Adversary Behaviour Analysis
+- Threat Modelling
+- Security Use Case Development
+
+## Networking
+
+- Cisco Switching and Routing
+- TCP/IP
+- Network Monitoring
+- Packet Analysis
+- DNS Analysis
+- Traffic Flow Analysis
+- Network Troubleshooting
+- Zeek
+- Wireshark
+
+## Infrastructure & Systems
+
+- Windows Server
+- Linux Administration
+- Active Directory
+- Group Policy
+- AS/400
+- IBM SAN Storage
+- Bare-Metal Recovery
+- Server Deployment
+- Virtualisation Platforms
+- Backup and Recovery Solutions
+
+## Scripting & Automation
+
+- PowerShell
+- Bash
+- Python (Foundation Level)
+- Linux Tooling
+
+---
+
+# Security Experience
+
+## Security Operations Centre (SOC)
+
+- Investigated and triaged security events from Microsoft Sentinel, Microsoft Defender for Endpoint, and Splunk.
+- Conducted endpoint triage across Windows and Linux environments.
+- Investigated indicators of compromise, suspicious user activity, and potential security incidents.
+- Performed log analysis and developed threat-hunting hypotheses.
+- Conducted packet capture analysis to identify command-and-control traffic and potential data exfiltration activity.
+- Developed understanding of modern attack paths including Active Directory abuse, privilege escalation, Kerberos attacks, lateral movement, token abuse, and persistence techniques.
+
+## Data Loss Prevention (DLP)
+
+- Supported and administered Forcepoint Data Loss Prevention technologies.
+- Investigated policy violations and insider risk events.
+- Assisted with the protection of sensitive business information and regulatory compliance requirements.
+
+---
+
+# Business Continuity & Disaster Recovery
+
+- Eight years of experience supporting Business Continuity and Disaster Recovery programmes.
+- Managed hardware deployment activities for multiple clients supporting DR planning and recovery exercises.
+- Performed bare-metal operating system recovery and infrastructure restoration.
+- Supported live recovery events ranging from small organisations to multinational enterprises.
+- Worked directly with technical teams, management, and executive stakeholders
