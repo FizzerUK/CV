@@ -8,7 +8,7 @@ https://www.linkedin.com/in/davidh42/
 
 # Professional Profile
 
-Security professional with experience spanning Security Operations (SOC), Data Loss Prevention (DLP), Business Continuity (BC), Disaster Recovery (DR), enterprise infrastructure, networking, systems administration, telecommunications, and multidisciplinary engineering.
+Security professional with experience spanning Security Operations (SOC), Data Loss Prevention (DLP), Business Continuity (BC), Disaster Recovery (DR), Enterprise Infrastructure, Networking, Systems Administration, Telecommunications, and Multidisciplinary Engineering.
 
 Selected from over 2,000 applicants for the UK Government-funded **SANS Upskill in Cyber Programme**, achieving **GIAC GFACT** and **GIAC GSEC** certifications. Invited to join the **SANS Advisory Board** following exceptional examination performance.
 
